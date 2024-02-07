@@ -1,0 +1,23 @@
+<style>
+        #vendors {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .vendorDetails {
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin: 10px;
+            background-color: lightblue;
+            
+        }
+        button {
+           background-color: #4CAF50;
+           color: white;
+           padding: 10px 15px;
+           border: none;
+           border-radius: 4px;
+           cursor: pointer;
+           transition: background-color 0.3s;
+  }
+    </style>
